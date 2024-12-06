@@ -9,7 +9,10 @@ opencv_python==4.1.2.30
 tqdm==4.60.0
 Pillow==8.2.0
 
-│IP102 coco format
+dataset coco format
+and get it from：
+https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset
+https://www.kaggle.com/datasets/tarundalal/dangerous-insects-dataset
  
 
 STEP 1: DOWNLOAD IP102 DATASETS
